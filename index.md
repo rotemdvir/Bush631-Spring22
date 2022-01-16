@@ -1,37 +1,36 @@
-## Bush 631: Quantitative Methods
+## Lecturer
 
-You can use the [editor on GitHub](https://github.com/rotemdvir/Bush631-Spring22/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Dr. Rotem Dvir** 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Email: [rdvir@tamu.edu](rdvir@tamu.edu). 
 
-### Markdown
+Website: [https://rotemdvir.wixsite.com/mysite](https://rotemdvir.wixsite.com/mysite)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Course Description
 
-```markdown
-Syntax highlighted code block
+This is a graduate course in quantitative social science research methods that covers the tools and techniques of quality research design and an introduction to basic statistical skills to conduct research in the social sciences. We will discuss multiple methods to design a research and use quantitative data to tackle a variety of questions in politics as a whole, and international affairs in particular. For example, What is the best way to predict election outcomes? What factors drive the onset of wars? What is the likelihood of a successful sanctions regime? Which type of leaders are more prone to concede in an international dispute? and how public opinion may shape the decision to begin negotiations?  
+The course integrates discussions about research design and data analysis with the focus on causal reasoning. It also emphasizes learning and practicing the skills to become proficient in the use of statistical software to manage and analyze data. Students submit tasks in which they design research relevant to their field of interest, practice programming, and prepare a final project that combines data analysis with policy relevance in a data-oriented policy brief.
 
-# Header 1
-## Header 2
-### Header 3
+### Course Material
 
-- Bulleted
-- List
+**Textbook**: Imai, Kosuke. (2017). *Quantitative Social Science: An Introduction*.  
 
-1. Numbered
-2. List
+**Syllabus**.  
 
-**Bold** and _Italic_ and `Code` text
+**Assignments and Tasks**:   
 
-[Link](url) and ![Image](src)
-```
+**Writing resources**. 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+  - Critical pillars of writing assignment: [5Ptoolkit](https://sites.google.com/site/bushschoolwriting/5p-toolkit).
+  - Mentor reflection on assignment: [MentorText](https://sites.google.com/site/bushmedalofexcellence/major-assignments/mentor-prototype-reflection).
+  - Project proposal: [ProposalMemo](https://sites.google.com/site/bushmedalofexcellence/major-assignments/project-proposal-memo?authuser=0).
+  - Self-assessment guidelines: [Rubric](https://docs.google.com/document/d/1Xbeutu3pGGRZbQJ19dP-p3yK5asKRLwtJgw4aVJrUnY/edit).
+  - Writing policy documents: [PolicyBrief](https://sites.google.com/site/bushschoolwriting/policy-documents/policy-briefs?authuser=0).
+  - More resources on Bush school writing website: [BushWriting_Link](https://sites.google.com/site/bushschoolwriting/welcome). 
 
-### Jekyll Themes
+**International Affairs Analysis**:  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rotemdvir/Bush631-Spring22/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  - Twitter threads: [Quantitative Security - Paul Poast](http://www.paulpoast.com/quantitative-security-threads/4594675941).
+  - Recommended websites: [War on the Rocks](https://warontherocks.com); [Political Violence at a Glance](https://politicalviolenceataglance.org);[Monkey Cage](https://monkeycagetopicguides.org); [The Conversation](https://theconversation.com/us).
+  - Recommended podcasts: [Paul Poast Pod](https://open.spotify.com/show/57N2HMfcYw3coHTPv1lYw7); [Intellignece Matters](https://podbay.fm/p/intelligence-matters); [IS: Off the Page](https://www.belfercenter.org/OffthePage); [Chain Reaction(FPRI)](https://www.fpri.org/multimedia/chain-reaction/); [Brookings Cafeteria](https://www.brookings.edu/series/brookings-cafeteria-podcast/); [WOTR Pod](https://warontherocks.com/category/podcasts/war-on-the-rocks/).  
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
