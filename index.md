@@ -1,3 +1,5 @@
+# Bush 631 - Quantitative Methods
+
 ## Lecturer
 
 **Dr. Rotem Dvir** 
