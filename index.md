@@ -22,6 +22,8 @@ The course integrates discussions about research design and data analysis with t
 **Assignments and Tasks**:  
 
   - Swirl homework assignments: [Instructions](Assignments/Swirl.pdf).
+  - R Markdown document: [Instructions](Assignments/Markdown_Inst.pdf).
+  - R Markdown template: [rmdFile](Assignments/rMarkdown_temp2022.Rmd).
 
 **Writing resources**. 
 
@@ -58,6 +60,6 @@ The course integrates discussions about research design and data analysis with t
   - Required reading: QSS, Chapter 2 (pp. 54-74, sections 2.5-2.8).
   - Recommended reading: Recommended reading: Fuhrmann, M., and Michael Horowitz. (2015). ["When leaders matter: Rebel experience and nuclear proliferation."](https://doi.org/10.1086/678308) *The Journal of Politics,* 77(1), 72-87.
   - Slides: [Causality: vol. II](Week3/wk3_slides.pdf)
-  - R code: [Week2](Week3/Code_week3.R)
+  - R code: [Week3](Week3/Code_week3.R)
   - Data: [Rebels](Week3/RebelsDataset_FH2015.dta).
   - Data: [DomesticTerrorism](Week3/TerrorDomestic.dta)
