@@ -23,6 +23,7 @@ The course integrates discussions about research design and data analysis with t
 
   - Swirl homework assignments: [Instructions](Assignments/Swirl.pdf).
   - R Markdown document: [Instructions](Assignments/Markdown_Inst.pdf).
+  - R Markdown template instructions: [TempInst](Assignments/MarkdownTemp_Ins.pdf).
   - R Markdown template: [rmdFile](Assignments/rMarkdown_temp2022.Rmd).
 
 **Writing resources**. 
