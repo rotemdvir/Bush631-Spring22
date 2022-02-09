@@ -66,7 +66,7 @@ The course integrates discussions about research design and data analysis with t
   - Data: [Rebels](Week3/RebelsDataset_FH2015.dta).
   - Data: [DomesticTerrorism](Week3/TerrorDomestic.dta).  
 
-## Week 4(02.08.2022)  
+## Week 4 (02.08.2022)  
 
   - Required reading: QSS, Chapter 3 (pp. 75-96, sections 3.1-3.4).
   - Recommended reading: Sagan, S., & Benjamin Valentino. (2018). ["Not just a war theory: American public opinion on ethics in combat."](https://doi.org/10.1093/isq/sqy033) *International Studies Quarterly*, 62(3), 548-561.
