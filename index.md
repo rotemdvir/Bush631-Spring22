@@ -77,4 +77,15 @@ The course integrates discussions about research design and data analysis with t
   - Data: [WarEthics](WarEthics.dta).
   - Data: [Afghanistan](afghan-village.csv).  
 
+## Week 5 (02.15.2022)  
+
+  - Required reading: QSS, Chapter 3 (pp. 96-122, sections 3.5-3.8).
+  - Recommended reading: Huff, C., and Joshua Kertzer. (2018). ["How the public defines terrorism."](https://doi.org/10.1111/ajps.12329) *American Journal of Political Science*, 62(1), 55-71.
+  - Slides: [Measurement: vol. II](Week5/wk5_slides.pdf).
+  - R Code: [Week5](Week5/Code_week5.R).
+  - Data: [CongressVoting](Week5/congress.csv).
+  - Data: [UNVoting](Week5/unvoting.csv).
+  - Data: [QBcontracts](Week5/QB_contracts.xlsx).  
+
+
 
