@@ -25,7 +25,10 @@ The course integrates discussions about research design and data analysis with t
   - R Markdown document: [Instructions](Assignments/Markdown_Inst.pdf).
   - R Markdown template instructions: [TempInst](Assignments/MarkdownTemp_Ins.pdf).
   - R Markdown template: [rmdFile](Assignments/rMarkdown_temp2022.Rmd).
-  - Research Task I (*unpacking methods in the literature*): [Instructions](Assignments/Task1_Inst.pdf).
+  - Research Task I (*Unpacking methods in the literature*): [Instructions](Assignments/Task1_Inst.pdf).
+  - Research Task II (*Working with R*): [Instructions&Questions](Assignments/Task2_Inst.pdf).
+  - Research Task II (*Working with R*): [ScoringRubric](Assignments/Task2_Rub.pdf).
+  - Research Task II (*Working with R*): [Data](Assignments/leaders.csv).  
 
 **Writing resources**. 
 
