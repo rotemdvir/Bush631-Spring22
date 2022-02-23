@@ -96,6 +96,12 @@ The course integrates discussions about research design and data analysis with t
   - Recommended reading: GAO Report. (2021). ["Defense Budget: Opportunities Exist to Improve DOD’s Management of Defense Spending."](https://www.gao.gov/products/gao-21-415t) *US government accountability office website*.
   - Slides: [Prediction: vol. I](Week6/wk6_slides.pdf).
   - R Code: [Week6](Week6/Code_week6.R).
+  - Data: [MilitarySpending1](Week6/mil_exp.xlsx).
+  - Data: [MilitarySpending2](Week6/mil_exp2.xlsx).
+  - Data: [MilitaryAidUS](Week6/MilitaryAidData.dta).
+
+
+
 
 
 
