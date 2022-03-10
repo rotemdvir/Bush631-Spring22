@@ -34,6 +34,7 @@ The course integrates discussions about research design and data analysis with t
 
   - Instructions document:
   - Datasets folder:
+  - Codebooks for data:
   - Research proposal tips:
 
 **Writing resources**. 
