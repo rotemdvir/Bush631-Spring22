@@ -33,8 +33,8 @@ The course integrates discussions about research design and data analysis with t
 **Final Project**:  
 
   - Instructions document: [Instructions](Final Project/Final_Inst.pdf).
-  - Datasets folder: [Data](Final Project/Data/).
-  - Codebooks for data: [Codebooks](Final Project/Codebooks/)
+  - Datasets folder: [Data](https://github.com/rotemdvir/Bush631-Spring22/tree/gh-pages/Final%20Project/Data).
+  - Codebooks for data: [Codebooks](https://github.com/rotemdvir/Bush631-Spring22/tree/gh-pages/Final%20Project/Codebooks)
   - Research proposal tips:
 
 **Writing resources**. 
