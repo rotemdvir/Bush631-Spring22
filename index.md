@@ -32,9 +32,9 @@ The course integrates discussions about research design and data analysis with t
 
 **Final Project**:  
 
-  - Instructions document:
-  - Datasets folder:
-  - Codebooks for data:
+  - Instructions document: [Instructions](Final Project/Final_Inst.pdf).
+  - Datasets folder: [Data](Final Project/Data/).
+  - Codebooks for data: [Codebooks](Final Project/Codebooks/)
   - Research proposal tips:
 
 **Writing resources**. 
