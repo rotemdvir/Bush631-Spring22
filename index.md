@@ -30,6 +30,12 @@ The course integrates discussions about research design and data analysis with t
   - Research Task II (*Working with R*): [ScoringRubric](Assignments/Task2_Rub.pdf).
   - Research Task II (*Working with R*): [Data](Assignments/leaders.csv).  
 
+**Final Project**:  
+
+  - Instructions document:
+  - Datasets folder:
+  - Research proposal tips:
+
 **Writing resources**. 
 
   - Critical pillars of writing assignment: [5Ptoolkit](https://sites.google.com/site/bushschoolwriting/5p-toolkit).
