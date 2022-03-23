@@ -138,7 +138,7 @@ The course integrates discussions about research design and data analysis with t
   - R Code: [Week9](Week9/Code_week9.R).
   - Data: [AggiesNFL](Week9/Ags_Data.xlsx).
   - Data: [ATOP](Week9/atop5_0m.dta).
-  - Data: [CountryCodes](Week9/COW country codes.csv).  
+  - Data: [CountryCodes](Week9/COW_codes.csv).  
 
 
 
