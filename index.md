@@ -141,6 +141,16 @@ The course integrates discussions about research design and data analysis with t
   - Data: [CountryCodes](Week9/COW_codes.csv).  
 
 
+## Week 10 (03.29.2022)  
+
+  - Required reading: QSS, Chapter 6 (pp. 277-313, sections 6.3-6.5).
+  - Recommended reading: Horowitz, M., McDermott, R., and Alan Stam. (2005). ["Leader age, regime type, and violent international relations."](https://doi.org/10.1177%2F0022002705279469) *Journal of Conflict Resolution*, 49(5), 661-685.
+  - Slides: [Probability: vol. II](Week10/wk10_slides.pdf).
+  - R Code: [Week9](Week10/Code_week10.R).
+  - Data: [AggiesNFL2](Week10/Ags_Data.xlsx).
+  - Data: [Leaders](Week10/LeaderDataset.dta).
+
+
 
 
 
